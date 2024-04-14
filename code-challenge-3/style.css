@@ -1,0 +1,12 @@
+#Header{
+    display: flex;
+    padding: 5px 40px;
+    background-color: rgb(46, 44, 44);
+    position: sticky;
+}
+#Header h2{
+    color: blue;
+}
+#Header h3{
+    color: white;
+}
